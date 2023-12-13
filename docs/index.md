@@ -5,10 +5,10 @@ title: Jared Wills' Resume
 # Jared Wills
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="wil20073@byui.edu">wil20073@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="www.linkedin.com/in/jarwwills">LinkedIn</a>
+| <a href="https://github.com/jaredwills">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -18,29 +18,40 @@ title: Jared Wills' Resume
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`December 2022 - Present`
+__Basinger CPA__, Park City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked with QuickBooksOnline, Excel, and other Intuit Products.
+- Had hands on experience with solving tax issues and created solutions.
+- Gained valuable experience with SEO and Social Media Marketing.
+
+### Other Work Experience
+
+`June 2022 - September 2022`
+__Home Depot RDC__, Breingsville, PA
+
+- Forklift certified
+- High activity environment.
+- Used Spanish to help communicate orders and concerns
+
 
 ## Service and Work History
 
 `2020-2022`
 __Service Missionary__, Idaho Falls, Idaho
-
+- Learned the Spanish language and became efficeint in it.
+- Gained valuable leadership with multiple leadership postions.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
 
 
